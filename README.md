@@ -69,4 +69,4 @@ Cuando tenga más contenido, aquí voy a destacar:
 ---
 
 ## ✍️ Autor
-**<<<Arturo Parra>>>** — Programación 2
+**<<< Arturo Parra >>>** — Programación 2
