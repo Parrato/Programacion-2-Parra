@@ -7,8 +7,8 @@
 ---
 
 ## 👤 Sobre mí (en modo simple)
-- **Nombre:** <<<Arturo Parra>>>
-- **Carrera / Universidad:** <<<Ing. en Computación - URU>>>
+- **Nombre:** << Arturo Parra >>
+- **Carrera / Universidad:** <<< Ing. en Computación - URU >>>
 - **Materia:** Programación 2
 - **Repositorio:** ejercicios + proyectos + utilidades
 
