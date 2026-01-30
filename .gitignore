@@ -1,0 +1,10 @@
+# Ejecutables y compilación
+*.exe
+*.out
+*.o
+*.obj
+*.a
+
+# Carpetas de build (por si luego las usas)
+build/
+bin/
